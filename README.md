@@ -51,4 +51,4 @@
 * Font Awesome: Icons for features, buttons, and social media.
 * Google Fonts: Custom fonts for headings and body text to enhance readability and aesthetics.
 
-This code is fully responsive and uses Bootstrap to handle layout and structure, while custom CSS defines the overall look and feel of the site.
+> This code is fully responsive and uses Bootstrap to handle layout and structure, while custom CSS defines the overall look and feel of the site.
