@@ -3,16 +3,17 @@
 ### Header and Meta Tags:
 * Includes basic meta tags for character encoding and viewport scaling, making the website responsive on all devices.
 * Loads external stylesheets for Bootstrap, custom CSS, Font Awesome, and Google Fonts.
-Navbar:
 
-Uses Bootstrap to create a responsive navigation bar that includes links to various sections like Contact, Pricing, and Download.
-Main Sections:
+### Navbar:
+* Uses Bootstrap to create a responsive navigation bar that includes links to various sections like Contact, Pricing, and Download.
 
-Title Section (#title): Contains a heading and buttons for downloading the app, with a mockup image of a mobile device.
-Features Section (#features): Displays key features in a 3-column layout, utilizing icons for visual appeal.
-Testimonials Section (#testimonials): Features a carousel of user testimonials, highlighting the experiences of users with TinDog.
-Press Section (#press): Displays logos of well-known media outlets that have featured TinDog.
-Pricing Section (#pricing): Offers three pricing plans with different levels of features, styled using Bootstrap's card component.
+### Main Sections:
+
+* Title Section (#title): Contains a heading and buttons for downloading the app, with a mockup image of a mobile device.
+* Features Section (#features): Displays key features in a 3-column layout, utilizing icons for visual appeal.
+* Testimonials Section (#testimonials): Features a carousel of user testimonials, highlighting the experiences of users with TinDog.
+* Press Section (#press): Displays logos of well-known media outlets that have featured TinDog.
+* Pricing Section (#pricing): Offers three pricing plans with different levels of features, styled using Bootstrap's card component.
 Footer Section:
 
 The footer contains links to social media, styled with Font Awesome icons, and site copyright information.
