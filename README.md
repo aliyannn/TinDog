@@ -1,4 +1,4 @@
-# TinDog: TInder for Dogs!
+# TinDog: Tinder for Dogs!
 
 ---
 
